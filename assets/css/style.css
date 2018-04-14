@@ -1,0 +1,67 @@
+body {
+	background: url(../images/background.png) center fixed;
+}
+
+#main-header {
+	font-family: 'Anton', sans-serif;
+	background: #337ab7;
+	margin-top: 10px;
+	border-width: 2px;
+	border-color: #2e6da4;
+	border-style: solid;
+	border-radius: 8px;
+	letter-spacing: 2px;
+}
+
+#office-placard {
+	border-width: 2px;
+	border-color: #2e6da4;
+	border-style: solid;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+#questionDiv {
+	border-width: 2px;
+	border-color: #2e6da4;
+	border-style: solid;
+	border-radius: 8px;
+	margin: 15px auto 25px auto;
+	color: #fff;
+	background: #337ab7;
+	font-weight: 900;
+	font-size: 30px;
+	height: 200px;
+	padding: 35px 20px 0px 20px;
+}
+
+#end {
+	border-width: 2px;
+	border-color: #2e6da4;
+	border-style: solid;
+	border-radius: 8px;
+	margin: 15px auto 25px auto;
+	color: #fff;
+	background: #337ab7;
+	font-weight: 900;
+	font-size: 30px;
+	height: 200px;
+	padding: 65px 20px 0px 20px;
+}
+
+h1 {
+	color: #fff;
+	font-size: 55px
+}
+
+.btn {
+	margin: 10px 12px 10px 12px;
+	width: 420px !important;
+	font-weight: 900;
+	height: 70px;
+	font-size: 18px;
+}
+
+#timer {
+	font-size: 18px;
+}
